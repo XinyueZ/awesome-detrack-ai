@@ -27,6 +27,7 @@ TBD
 - https://github.com/qianqianwang68/omnimotion
 - https://github.com/google-deepmind/tapnet
 - https://github.com/ZrrSkywalker/Personalize-SAM
+- https://github.com/sczhou/ProPainter
 
 ## Early
 - https://github.com/visionml/pytracking/tree/master/pytracking
