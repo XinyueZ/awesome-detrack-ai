@@ -15,7 +15,7 @@ TBD
 
 # External project
 
-## SAM+Track
+## Track, SAM, Inpaint
 - https://github.com/hkchengrex/Tracking-Anything-with-DEVA
 - https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once
 - https://github.com/Jumpat/SegmentAnythingin3D
